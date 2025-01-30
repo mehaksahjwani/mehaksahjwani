@@ -2,7 +2,7 @@
   <img src="mehakcartoonimage.webp" alt="Cartoon Image of Mehak" width="500"/>
 </div>
 
-<h1 align="center">Hey there! I'm Mehak Sahjwani 👩‍💻 <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="35"></h1>
+<h1 align="center">Hey there! I'm Mehak Sahjwani 👩‍💻</h1>
 
 <p align="center">
   🎓 Computing Science Student @ <strong>University of Alberta</strong> <br>
@@ -14,8 +14,7 @@
 ### 🌟 About Me  
 - 💻 **Currently:** Exploring opportunities in **AI, Data Science, and Full-Stack Development**  
 - 🤝 **Collaborating:** Open to exciting **hackathons** & impactful **data-driven projects**  
-- 🏆 **Past Projects:** *Drive Safe*, *VerbaSync*, and *TechMentor*  
-- 🌱 **Learning:** Deep learning, natural language processing, and project management  
+- 🏆 **Past Projects:** *Drive Safe*, *VerbaSync*, and currently working on *TechMentor*  
 - 🎤 **Fun Fact:** I love attending tech conferences and meeting creative minds!  
 
 ---
@@ -31,14 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
-
----
-
-### 📈 Profile Stats  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mehak-sahjwani&label=Profile%20Reads&color=ffb8f2&style=flat-square" alt="Profile Reads Counter" />
 </p>
 
 ---
