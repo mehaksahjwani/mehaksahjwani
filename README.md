@@ -17,14 +17,14 @@ My portfolio: [mehak.github.io](https://mehak.github.io)
 ---
 
 ## Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mehaksahjwani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)]([https://www.linkedin.com/in/mehaksahjwani](https://www.linkedin.com/in/mehak-sahjwani/))
 
 ---
 
 ## Languages and Tools:  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-333?logo=python" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript" alt="JavaScript" height="30"/>
+  <img src="[https://img.shields.io/badge/-Python-333?logo=python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)" alt="Python" height="30"/>
+  <img src="[https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuYdLEzBvwemix8pwsncUkLLOQqnByncadg&s)" alt="JavaScript" height="30"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5" alt="HTML5" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" alt="CSS3" height="30"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma" alt="Figma" height="30"/>
@@ -38,6 +38,3 @@ My portfolio: [mehak.github.io](https://mehak.github.io)
 </p>
 
 ---
-
-## 🔥 GitHub Streak:  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername)](https://git.io/streak-stats)
