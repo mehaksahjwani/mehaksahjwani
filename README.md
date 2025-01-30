@@ -1,37 +1,64 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fcoding-at-night_858816_912229&psig=AOvVaw1cZ7ItoppddwZbc9aSb-2d&ust=1738309050908000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCI2__3nIsDFQAAAAAdAAAAABAE" alt="Avatar" width="200"/>
+<div align="center">
+  <img src="cartoon-image.png" alt="Cartoon Image of Mehak" width="500"/>
+</div>
 
-# Hi, I'm Mehak! 👋
+<h1 align="center">Hi, I'm Mehak <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
+<h3 align="center">I'm a Computing Science student at the University of Alberta passionate about programming, data science, and harnessing technology for positive impact!</h3>
+<h4 align="center">My portfolio: <a href="https://mehak.github.io">mehak.github.io</a></h4>
 
-I'm a Computing Science student at the University of Alberta passionate about programming, data science, and building impactful technology solutions 🌍.
-
----
-
-### 👩‍💻 About Me:
-- 🚀 I’m currently building **TechMentor** an app that matches mentors and mentees with their given information using Matching Algortihm.
-- 🌱 Learning more about **ML models**, **DevOps**, and **Azure** and more!.
-- 💬 Looking to collaborate on **Open Source Projects & Hackathons**.
-
----
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-sahjwani/)
-
----
-
-## Languages and Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mehak-sahjwani&label=Profile%20Reads&color=ffb8f2&style=flat-square" alt="mehak-sahjwani" />
 </p>
 
----
+<ul>
+  <li>🔗 Currently exploring opportunities in <strong>AI, Data Science, and Full-Stack Development</strong></li>
+  <li>🔄 Open to collaborating on <strong>Hackathons and Data-Driven Projects</strong></li>
+  <li>🔖 Past Projects: "Drive Safe" and more innovative tech solutions</li>
+  <li>🤩 Fun fact: I enjoy attending tech conferences like Can-CWiC and love learning about innovative problem-solving methods!</li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mehak-sahjwani" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehak-sahjwani" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
+
+<a href="https://streak-stats.demolab.com/?user=mehak-sahjwani&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=mehak-sahjwani&theme=dark" alt="Mehak Streak"/>
+</a>
+<p></p>
