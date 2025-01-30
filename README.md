@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="mehakcartoonimage" alt="Cartoon Image of Mehak" width="500"/>
+  <img src="mehakcartoonimage.webp" alt="Cartoon Image of Mehak" width="500"/>
 </div>
 
-<h1 align="center">Hi, I'm Mehak <img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
+<h1 align="center">Hi, I'm Mehak Sahjwani!<img src="waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt="Waving hand emoji" width="40" height="40"></h1>
 <h3 align="left">I'm a Computing Science student at the University of Alberta passionate about programming, data science, and harnessing technology for positive impact!</h3>
 
 <p align="left">
