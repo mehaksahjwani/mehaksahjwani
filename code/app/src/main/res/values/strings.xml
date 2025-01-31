@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sahjwani-MyMovieWishlist</string>
+    <string name="add_movie">Add Movie</string>
+    <string-array name="movie_status_options">
+        <item>Watched</item>
+        <item>Not Watched</item>
+    </string-array>
+</resources>
